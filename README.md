@@ -4,4 +4,4 @@
 
 `npm install react-icons --save`
 
-www.csstricks.com
+[www.csstricks.com](https://css-tricks.com/)
